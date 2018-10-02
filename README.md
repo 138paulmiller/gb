@@ -1,5 +1,5 @@
 # glBoy 
-## GameBoy Emulator using OpenGL support (3D Gameboy games??!!! probably not) 
+## GameBoy Emulator (Unfinished)
 
 ## References
 http://problemkaputt.de/pandocs.htm
